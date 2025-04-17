@@ -95,7 +95,7 @@ Marketing performance tracking:
 
 ## 📎 Files Included
 - `Dashboard_BLINKIT GROCERY SALES ANALYSIS.pbix`: Power BI report file
-- `dashboard_screenshots/`: PNG exports of dashboard pages
+- `dashboard_screenshots/`: PDF exports of dashboard pages
 - `Blinkit Sales Report.pdf`: Report of analysis
 - `dataset.zip`: Simulated data used for analysis
 
